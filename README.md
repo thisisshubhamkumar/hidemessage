@@ -1,5 +1,7 @@
-# Hmm Tool
+# H1deM3 Tool (Hide message in massage)
 
-Use zero-width characters to hide your secret message.
+A way of hiding messages in messages, Use Zero-Width Characters to Hide Secret Messages in Text
 
-site: 
+Website: https://thisisshubhamkumar.github.io/hidemessage/
+
+Article:  
