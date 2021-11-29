@@ -12,4 +12,4 @@ Not really, because anyone who knows to look for your message can find it. It's 
 
 **I can use this for any text?**
 
-Sort of. If nothing corrupts the text it will work, and it should work on most of msg wahring platform like (whatsapp, discord, twitter, emails). Facebook will probably corrupt the text however.
+Sort of. If nothing corrupts the text it will work, and it should work on most of msg sharing platform like (whatsapp, discord, twitter, emails). Facebook will probably corrupt the text however.
